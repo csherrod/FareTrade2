@@ -1,7 +1,6 @@
-# FareTrade2
-Started with copy of FareTrade and made some changes. The original project can be found [here](https://github.com/rmesser87/FareTrade)
-
 ## Project Title: FareTrade2
+
+Started with copy of FareTrade and made some changes. The original project can be found [here](https://github.com/rmesser87/FareTrade)
 
 If you want to check out a working version of this site click [here](https://immense-beyond-30367.herokuapp.com/)
 
