@@ -1,5 +1,5 @@
 # Config
-*.config.json
+/app/config/config.json
 # Logs
 logs
 *.log
