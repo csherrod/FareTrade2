@@ -4,6 +4,8 @@ Started with copy of FareTrade and made some changes. The original project can b
 
 If you want to check out a working version of this site click [here](https://immense-beyond-30367.herokuapp.com/)
 
+![FareTrade2 Homepage](/public/assets/images/FareTrade2.png)
+
 ## Prerequisites
 
 You need to have working knowledge of html, css, javascript and handlebars.js.
